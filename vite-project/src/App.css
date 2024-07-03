@@ -1,0 +1,21 @@
+footer{
+  background-color: rgb(9, 9, 10);
+  text-align: center;
+  color: white;
+}
+
+.button{
+border: 0;
+color: #7d7f81;
+padding: 10px;
+}
+
+.button:hover{
+  cursor: pointer;
+  color: #c5bdbd;
+  background-color: #8697A6;
+}
+
+.invalid {
+  border: 2px solid red;
+}

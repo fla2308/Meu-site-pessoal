@@ -1,0 +1,11 @@
+body{
+    margin: 0;
+    
+}
+header{
+    padding: 50px;
+}
+header img{
+    height: 170px;
+    border-radius: 90%;
+}

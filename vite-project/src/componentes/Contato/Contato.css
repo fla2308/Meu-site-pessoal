@@ -1,0 +1,31 @@
+form{
+    width: 400px;
+    padding: 20px;
+    margin: 100px auto;
+    border-radius: 15px;
+    background-color: rgb(190, 190, 223);
+}
+
+form fieldset{
+    border: 0;
+}
+
+form fieldset label{
+    display: block;
+}
+
+form fieldset input,textarea{
+    width: 100%;
+}
+
+#submit-contact{
+    margin: o auto;
+} 
+
+@media only screen and (max-width:600px) {
+    nav ul li {
+      margin: 150px;
+    }
+    
+  }
+  

@@ -1,0 +1,11 @@
+.item-portfolio{
+    display: inline-block;
+    margin: 50px;
+    border: 2px solid black
+}
+
+.item-portfolio{
+    text-decoration: none;
+    color: darkgrey;
+    font-weight: bold;
+}

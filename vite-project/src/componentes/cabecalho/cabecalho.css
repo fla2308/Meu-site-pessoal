@@ -1,0 +1,10 @@
+header{
+    background-color: rgb(197, 197, 219);
+    padding: 70px;
+    text-align: center;
+    color:black                                                                                                                                                                                                                     ;
+  }
+  header img{
+    height: 150px;
+    border-radius: 50%;
+  }
