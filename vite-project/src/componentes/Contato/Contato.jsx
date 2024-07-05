@@ -86,7 +86,7 @@ function mascaraTelefone(event) {
         cols="30" 
         rows="10"
         value={mensagem}
-        onChange={(event) => setTelefone(event.target.value)}
+        onChange={(event) => setMensagem(event.target.value)}
     ></textarea>
     </fieldset> 
 
