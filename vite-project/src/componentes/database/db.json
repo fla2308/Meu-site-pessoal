@@ -1,0 +1,30 @@
+{
+    "informacoes": [
+      {
+        "id": "1",
+        "foto": "https://github.com/fla2308.png",
+        "nome": "Flaviana ",
+        "cargo": "Estudante",
+        "resumo": "A expressão Lorem ipsum em design gráfico e editoração é um texto padrão em latim utilizado na produção gráfica para preencher os espaços de texto em publicações (jornais, revistas, e sites) para testar e ajustar aspectos visuais (layout, tipografia, formatação, etc.) antes de utilizar conteúdo real. Também é utilizado em catálogos tipográficos, para demonstrar textos e títulos escritos com as fontes.[1]"
+      }
+    ],
+    "experiencias": [
+      {
+        "id": "1",
+        "titulo": "estudante do curso comeia academy",
+        "descricao": "desenvolvimento de software",
+        "tipo": "Academica",
+        "anoInicio": "2024",
+        "anoFim": "2024"
+      },
+      {
+        "id": "2",
+        "titulo": "",
+        "descricao": "desenvolvimento de software",
+        "tipo": "Academica",
+        "anoInicio": "2024",
+        "anoFim": "2024"
+      }
+    ],
+    "portfolio": []
+  }
