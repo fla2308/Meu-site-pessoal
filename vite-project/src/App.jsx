@@ -44,6 +44,7 @@ function App() {
       console.error ('Erro ao buscar dados:',error);
     }
   };
+  
   React.useEffect(() => {
     fetchDados();
   }, []);
