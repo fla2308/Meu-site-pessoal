@@ -55,8 +55,8 @@ function App() {
 <BrowserRouter>
 <BarraNavegacao></BarraNavegacao>
       <Routes>
-          <Route index element={<Curriculo />} />
-          <Route path="portfolio" element={<Portfolio/>} />
+          <Route index element={<Curriculo curriculo ={curriculo} />} />
+          <Route path="portfolio" element={<Portfolio portfolio={portfolio} />} />
           <Route path="contato" element={<Contato/>} />
       </Routes>
     </BrowserRouter>
